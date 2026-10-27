@@ -141,7 +141,7 @@ function App() {
           <section className="relative mx-auto flex min-h-screen max-w-6xl items-center justify-center px-4 py-12">
             <div className="w-full max-w-5xl text-center">
               <div className="mb-8">
-                <h2 className="font-romantic text-4xl text-pink-700 md:text-6xl">Happy Birthday, My Beautiful Girl! 🎂❤️</h2>
+                <h2 className="font-romantic text-4xl text-pink-700 md:text-6xl">Happy Birthday, <span className="font-black text-pink-600">Shreya</span>! 🎂❤️</h2>
               </div>
 
               <div className="story-card relative mx-auto w-full max-w-4xl rounded-[2rem] p-6 md:p-10">
@@ -302,7 +302,7 @@ function App() {
           <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-4 py-12">
             <div className="absolute inset-0 bg-gradient-to-br from-rose-200 via-pink-100 to-amber-100" />
             <div className="relative z-10 w-full max-w-5xl text-center">
-              <h2 className="font-romantic text-5xl text-pink-700 md:text-7xl">Happy Birthday, My Love ❤️</h2>
+              <h2 className="font-romantic text-5xl text-pink-700 md:text-7xl">Happy Birthday, <span className="font-black text-pink-600">Shreya</span> ❤️</h2>
               <p className="mt-6 text-xl text-pink-800 md:text-2xl">
                 No matter how many birthdays pass, I hope I get to celebrate many more of them with you. You are my favorite part of this life.
               </p>
